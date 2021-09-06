@@ -1,0 +1,19 @@
+h1{
+    font-size: 54px;
+}
+span{
+    color: crimson;
+
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
